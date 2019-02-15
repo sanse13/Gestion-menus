@@ -1,0 +1,22 @@
+1002 1.05 50 0.20    Aguacate              
+2343 1.00 25 1.00    Lecha Pascual         
+2374 1.00 10 1.00    Naranjas Valencia     
+3455 0.50 25 2.70    Taladro Bosch         
+3676 88.00 28 54.70    Armarios Cocina       
+4657 1.30 38 1.00    Lejia Patena          
+4768 600.00 0 0.90    Commodore64 Commodore 
+4899 5.30 23 7.00    Limon                 
+6711 0.32 40 0.40    Kas-limon             
+6712 1.50 345 0.90    Pina                  
+7813 1010.00 50 45.00    TV                    
+7914 12.00 12 12.00    Lima                  
+7915 10.00 200 1.50    queso manchego        
+7916 1000.25 20 532.50   Ordenador portatil HP  
+7917 867.25 20 480.75   Ordenador portatil Leno
+7918 534.25 20 600.75   Ordenador portatil Asus
+7919 1000.25 20 532.50  Ordenador portatil HP   
+7920 867.25 20 480.75  Ordenador portatil Lenov
+7921 534.25 20 600.75  Ordenador portatil Asus 
+7922 1000.25 20 532.50 Ordenador portatil HP    
+7923 867.25 20 480.75 Ordenador portatil Lenovo
+7924 534.25 20 600.75 Ordenador portatil Asus  

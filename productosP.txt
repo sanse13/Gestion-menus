@@ -1,0 +1,15 @@
+1001 1.25 100 1.00 Leche Kaiku              
+1002 1.05 50 0.20 Aguacate                 
+2343 1.00 25 1.00 Lecha Pascual            
+2374 1.00 10 1.00 Naranjas Valencia        
+3455 0.50 25 2.70 Taladro Bosch            
+3676 88.00 28 54.70 Armarios Cocina          
+4657 1.30 237 1.00 Lejia Patena             
+4768 600.00 0 0.90 Commodore64 Commodore Int
+4899 5.30 23 7.00 Limon                    
+5010 580.00 50 30.00 Mesa-comedor             
+6711 0.32 40 0.40 Kas-limon                
+6712 1.50 345 0.90 Piña                     
+7813 1010.00 50 45.00 TV                       
+7914 12.00 12 12.00 Lima                     
+7915 10.00 200 1.50 queso manchego           
