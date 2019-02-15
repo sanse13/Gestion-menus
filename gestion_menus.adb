@@ -100,7 +100,7 @@ begin
          end case;
          New_Line;
          Put_Line("       (Pulsa salto de linea para continuar >>");
-         Skip_line; -- detiene el ciclo hasta que el usuario pulsa CR/RT)
+         Skip_line; 
       else
            Put_Line("Intentelo de nuevo. La opcion debe ser un numero entre 1 y 8");
       end if;
